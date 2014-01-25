@@ -30,3 +30,12 @@ Como colaborar?
 * Manda un pull request
 
 A lo largo de los dias iran apareciendo instrucciones cada vez mas detalladas y para mas sistemas en tantos formatos como sean necesarios (porque no encontrar un video tutorial de como usar github como tu primera contribucion?)
+
+Como ver los mapas?
+-------------------
+
+La herramienta mas simple que mas facil es de entender es el esquema de toda la vida sobretodo para ver la perspectiva en contexto asi que se parte de aqui. Como todas las decisiones de este proyecto, la idea a sido sometida a votacion pero siempre es discutible y reconsiderable
+
+El formato abierto para representar estos esquemas es el de Freemind (http://freemind.sourceforge.net/wiki/index.php/Download), casi un estandar de facto 
+
+Asi pues, el resto de programas y servicios de mapas mentales suelen importar y exportar a este formato (cuidado, algunos cobran por la importacion/exportacion con Freemind)
