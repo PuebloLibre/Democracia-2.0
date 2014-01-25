@@ -16,8 +16,17 @@ El esceptico dira que eso es una utopia pero el movimiento Open Source data de 1
 Como colaborar?
 ---------------
 
-Create una cuenta de github y clona ese repositorio. Eso te creara una copia local en tu ordenador
-Haz tu propuesta
-Manda un pull request
+* Prepara tu ordenador: (Ayuda oficial en ingles: https://help.github.com/articles/set-up-git)
+	* Instala Git en tu ordenador (La forma facil esta despues de la dificil: http://git-scm.com/book/es/Empezando-Instalando-Git)
+	* Create una cuenta de github (https://github.com/)
+	* Descargate su programa
+		* Mac: http://mac.github.com/
+		* Linux: ??
+		* Windows: http://windows.github.com/
+
+
+* Haz un fork ese repositorio. Eso te creara una copia local en tu ordenador
+* Haz tu propuesta
+* Manda un pull request
 
 A lo largo de los dias iran apareciendo instrucciones cada vez mas detalladas y para mas sistemas en tantos formatos como sean necesarios (porque no encontrar un video tutorial de como usar github como tu primera contribucion?)
