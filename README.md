@@ -55,8 +55,8 @@ Una muestra clara de eso es que las empresas vienen y van pero el MOVIMIENTO per
 Comunicacion
 ------------
 
-Correo electronico: pueblo.libre2.0(arroba)gmail.com
-Twitter: https://twitter.com/PuebloLibre2_0
-Facebook: https://www.facebook.com/pages/Pueblo-libre-20/1436464693253007
+* Correo electronico: pueblo.libre2.0(arroba)gmail.com
+* Twitter: https://twitter.com/PuebloLibre2_0
+* Facebook: https://www.facebook.com/pages/Pueblo-libre-20/1436464693253007
 
 Como todo sistema distribuido, habra que ir repartiendo las tareas del dia a dia empezando por lo social
